@@ -1,5 +1,5 @@
 import React from 'react'
-import createPoll from './createPoll';
+import CreatePoll from './CreatePoll';
 import VotePage from './VotePage';
 import LiveResults from './LiveResults';
 import { useState } from 'react'
